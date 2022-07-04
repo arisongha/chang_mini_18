@@ -90,3 +90,13 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+  assets:
+  - assets/images/kakao_bank.png
+  - assets/images/money_icon.png
+  - assets/images/sinhan_bank.png
+  - assets/images/toss_appbar_icon_1.png
+  - assets/images/toss_appbar_icon_2.png
+  - assets/images/toss_appbar_icon_3.png
+  - assets/images/toss_bank.png
+  - assets/images/toss_logo.png
